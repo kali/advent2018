@@ -1,0 +1,8 @@
+[package]
+name = "day01"
+version = "0.1.0"
+authors = ["Mathieu Poumeyrol <kali@zoy.org>"]
+
+[dependencies]
+aoc = "*"
+nom = "*"
