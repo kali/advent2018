@@ -13,8 +13,7 @@ fn level(x: usize, y: usize, serial: isize) -> isize {
 
 fn run(serial: isize) -> ((usize, usize), (usize, usize, usize)) {
     let ref integral = {
-        let mut integral = 
-            vec![vec![0isize; 301]; 301];
+        let mut integral = vec![vec![0isize; 301]; 301];
         for y in 1..=300 {
             let mut s = 0;
             for x in 1..=300 {
