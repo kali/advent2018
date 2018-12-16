@@ -1,8 +1,7 @@
 [package]
+name = "day16"
+version = "0.1.0"
 authors = ["Mathieu Poumeyrol <kali@zoy.org>"]
 edition = "2018"
-name = "day15"
-version = "0.1.0"
 
 [dependencies]
-pathfinding = "1.1.6"
