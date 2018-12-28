@@ -1,0 +1,7 @@
+[package]
+authors = ["Mathieu Poumeyrol <kali@zoy.org>"]
+edition = "2018"
+name = "day24"
+version = "0.1.0"
+
+[dependencies]
